@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emesdonerhaus.de/sitemap.xml
+

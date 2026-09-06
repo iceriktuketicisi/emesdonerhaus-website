@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 640" preserveAspectRatio="xMidYMid meet" role="img" aria-label="">
+  <defs>
+    <linearGradient id="meat" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7d1c17"/>
+      <stop offset="0.5" stop-color="#a32620"/>
+      <stop offset="1" stop-color="#7d1c17"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d99a34" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#d99a34" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="160" y1="0" x2="160" y2="640" stroke="#4a3c30" stroke-width="6"/>
+
+  <g>
+    <rect x="96" y="70" width="128" height="470" rx="58" fill="url(#meat)"/>
+    <g stroke="#241d18" stroke-opacity="0.35" stroke-width="2">
+      <path d="M100 120 Q160 132 220 120" fill="none"/>
+      <path d="M98 170 Q160 184 222 170" fill="none"/>
+      <path d="M97 222 Q160 238 223 222" fill="none"/>
+      <path d="M97 276 Q160 292 223 276" fill="none"/>
+      <path d="M98 330 Q160 346 222 330" fill="none"/>
+      <path d="M99 384 Q160 398 221 384" fill="none"/>
+      <path d="M101 436 Q160 450 219 436" fill="none"/>
+      <path d="M104 486 Q160 498 216 486" fill="none"/>
+    </g>
+    <ellipse cx="160" cy="70" rx="64" ry="20" fill="#d99a34" opacity="0.9"/>
+  </g>
+
+  <rect x="60" y="560" width="200" height="14" rx="4" fill="#4a3c30"/>
+  <rect x="0" y="600" width="320" height="40" fill="url(#glow)"/>
+</svg>

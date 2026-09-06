@@ -1,0 +1,84 @@
+{
+  "_note": "PLACEHOLDER-Preise auf Basis öffentlicher Social-Media-Posts. Vor Livegang mit dem Kunden anhand der aktuellen Lieferando-Karte abgleichen. Allergene (allergens) sind vorbereitet, aber noch leer — bitte vom Kunden erfragen.",
+  "categories": [
+    {
+      "id": "doener",
+      "name_de": "Döner",
+      "name_tr": "Döner",
+      "items": [
+        { "name_de": "Döner Hähnchen", "name_tr": "Tavuk Döner", "desc_de": "Im Fladenbrot, mit Salat & Soße nach Wahl", "desc_tr": "Yufka ekmekte, salata ve sos seçimi ile", "price": 6.50, "allergens": [] },
+        { "name_de": "Döner Rind (Berliner Art)", "name_tr": "Dana Döner (Berlin Usulü)", "desc_de": "Steak-Döner, Berliner Soßenkomposition", "desc_tr": "Steak döner, özel Berlin sos karışımı", "price": 7.50, "allergens": [] }
+      ]
+    },
+    {
+      "id": "teller",
+      "name_de": "Döner Teller",
+      "name_tr": "Döner Tabak",
+      "items": [
+        { "name_de": "Klassischer Döner Teller", "name_tr": "Klasik Döner Tabağı", "desc_de": "Mit Pommes frites oder Reis & Salat", "desc_tr": "Patates kızartması veya pilav ve salata ile", "price": 11.90, "allergens": [] },
+        { "name_de": "Berliner Döner Teller", "name_tr": "Berlin Usulü Döner Tabağı", "desc_de": "Hähnchen-Steak, mit Pommes frites oder Reis", "desc_tr": "Tavuk-steak, patates kızartması veya pilav ile", "price": 13.90, "allergens": [] }
+      ]
+    },
+    {
+      "id": "wrap",
+      "name_de": "Wrap / Dürüm",
+      "name_tr": "Dürüm",
+      "items": [
+        { "name_de": "Hähnchen Döner Wrap", "name_tr": "Tavuk Döner Dürüm", "desc_de": "Mit frischem Salat und Soße", "desc_tr": "Taze salata ve sos ile", "price": 7.90, "allergens": [] },
+        { "name_de": "Wrap Menü", "name_tr": "Dürüm Menü", "desc_de": "Hähnchen Döner Wrap + kleine Pommes + 2 Stück Pistazien-Baklava", "desc_tr": "Tavuk döner dürüm + küçük patates + 2 adet fıstıklı baklava", "price": 12.90, "allergens": [] }
+      ]
+    },
+    {
+      "id": "pizza",
+      "name_de": "Pizza",
+      "name_tr": "Pizza",
+      "items": [
+        { "name_de": "Pizza Margherita", "name_tr": "Margherita Pizza", "desc_de": "Tomatensoße & Mozzarella, 30cm", "desc_tr": "Domates sosu ve mozzarella, 30cm", "price": 8.50, "allergens": [] },
+        { "name_de": "Pizza Döner", "name_tr": "Dönerli Pizza", "desc_de": "Tomatensoße, Dönerfleisch nach Wahl, Zwiebeln, Käse & Soße nach Wahl, 30cm", "desc_tr": "Domates sosu, seçilen döner eti, soğan, peynir ve sos, 30cm", "price": 10.90, "allergens": [] }
+      ]
+    },
+    {
+      "id": "pide-lahmacun",
+      "name_de": "Pide & Lahmacun",
+      "name_tr": "Pide & Lahmacun",
+      "items": [
+        { "name_de": "Lahmacun", "name_tr": "Lahmacun", "desc_de": "Hausgemacht, dünner Teig, mit Salat", "desc_tr": "Ev yapımı, ince hamur, salata ile", "price": 4.50, "allergens": [] },
+        { "name_de": "Süper Pide", "name_tr": "Süper Pide", "desc_de": "Frisch aus dem Ofen", "desc_tr": "Fırından taze", "price": 9.90, "allergens": [] }
+      ]
+    },
+    {
+      "id": "suppe",
+      "name_de": "Suppe",
+      "name_tr": "Çorba",
+      "items": [
+        { "name_de": "Hühnersuppe", "name_tr": "Tavuk Çorbası", "desc_de": "Hausgemacht, cremig, mit Zitrone serviert", "desc_tr": "Ev yapımı, kremalı, limon ile servis edilir", "price": 4.90, "allergens": [] }
+      ]
+    },
+    {
+      "id": "salate-bowls",
+      "name_de": "Salate & Bowls",
+      "name_tr": "Salata & Bowl",
+      "items": [
+        { "name_de": "Döner Bowl", "name_tr": "Döner Bowl", "desc_de": "Knackiger Salat, Gemüse, Mais & Dönerfleisch — ohne Brot", "desc_tr": "Taze salata, sebze, mısır ve döner eti — ekmeksiz", "price": 9.50, "allergens": [] }
+      ]
+    },
+    {
+      "id": "dessert",
+      "name_de": "Dessert",
+      "name_tr": "Tatlı",
+      "items": [
+        { "name_de": "Pistazien-Baklava (2 Stück)", "name_tr": "Fıstıklı Baklava (2 adet)", "desc_de": "", "desc_tr": "", "price": 3.50, "allergens": [] },
+        { "name_de": "Trileçe", "name_tr": "Trileçe", "desc_de": "", "desc_tr": "", "price": 4.50, "allergens": [] }
+      ]
+    },
+    {
+      "id": "getraenke",
+      "name_de": "Getränke",
+      "name_tr": "İçecekler",
+      "items": [
+        { "name_de": "Ayran 0,25l", "name_tr": "Ayran 0,25l", "desc_de": "", "desc_tr": "", "price": 2.00, "allergens": [] },
+        { "name_de": "Softdrinks 0,33l", "name_tr": "Soğuk İçecek 0,33l", "desc_de": "", "desc_tr": "", "price": 2.50, "allergens": [] }
+      ]
+    }
+  ]
+}
